@@ -42,7 +42,3 @@ Para implementar essas funcionalidades, utilizaremos:
 
 - Estruturas condicionais e laços para verificar se os dados de entrada estão corretos.
 - Solicitações POST e GET para transmitir informações entre as páginas.
-
-Este projeto é uma ótima maneira de começar a aprender PHP e desenvolver habilidades essenciais de programação web. Lembre-se de que este é um projeto de aprendizado e pode ser expandido com recursos adicionais, como edição de perfil de usuário, autenticação mais segura, entre outros, à medida que você se torna mais familiarizado com PHP e desenvolvimento web.
-
-Sinta-se à vontade para entrar em contato se tiver alguma dúvida ou precisar de orientações adicionais durante o desenvolvimento deste projeto. Boa sorte!
